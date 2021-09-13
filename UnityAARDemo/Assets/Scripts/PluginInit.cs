@@ -10,7 +10,7 @@ public class PluginInit : MonoBehaviour
 
     void Start()
     {
-        InitializePlugin("com.eungyukm.unityplugin.PluginInstance");
+        pluginInstance = new AndroidJavaObject("com.eungyukm.uactivity.PluginActivity");
     }
 
     private void InitializePlugin(string pluginName)
