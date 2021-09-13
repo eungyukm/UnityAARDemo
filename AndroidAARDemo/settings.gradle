@@ -9,3 +9,5 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidAARDemo"
 include ':app'
 include ':unityplugin'
+include ':uactivity'
+include ':player'

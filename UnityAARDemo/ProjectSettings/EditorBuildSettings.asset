@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/AARDemo.unity
+    path: Assets/Scenes/AARDemo_2.unity
+    guid: 8bb9e71e458d32542b667a1c82e556fc
+  - enabled: 1
+    path: Assets/Scenes/AARDemo_1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
